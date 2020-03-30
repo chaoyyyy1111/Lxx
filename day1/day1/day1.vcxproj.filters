@@ -15,8 +15,61 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="happy1.c">
+    <ClCompile Include="lala01.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\day2\lala02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\day4\lala04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\day5\lala05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\day3\lala03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala06.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sub.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala07.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala09.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sub.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Add.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

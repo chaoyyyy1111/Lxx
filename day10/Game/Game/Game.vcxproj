@@ -10,31 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\day2\lala02.c" />
-    <ClCompile Include="..\..\day3\lala03.c" />
-    <ClCompile Include="..\..\day4\lala04.c" />
-    <ClCompile Include="..\..\day5\lala05.c" />
-    <ClCompile Include="game.c" />
-    <ClCompile Include="lala01.c" />
-    <ClCompile Include="lala06.c" />
-    <ClCompile Include="add.c" />
-    <ClCompile Include="lala07.c" />
-    <ClCompile Include="lala08.c" />
-    <ClCompile Include="lala09.c" />
-    <ClCompile Include="lala10.c" />
-    <ClCompile Include="lala11.c" />
-    <ClCompile Include="sub.c" />
-    <ClCompile Include="test.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Add.h" />
-    <ClInclude Include="game.h" />
-    <ClInclude Include="Sub.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{98499F95-57C0-493A-92F4-D4EC0B1DD9D1}</ProjectGuid>
-    <RootNamespace>day1</RootNamespace>
+    <ProjectGuid>{B73F4921-FE80-498F-B191-26840E078496}</ProjectGuid>
+    <RootNamespace>Game</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -69,7 +47,6 @@
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -86,6 +63,13 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\day1\day1\game.c" />
+    <ClCompile Include="..\..\..\day1\day1\test.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\day1\day1\game.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
