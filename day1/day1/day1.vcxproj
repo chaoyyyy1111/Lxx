@@ -11,12 +11,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\day2\lala02.c" />
-    <ClCompile Include="..\..\day3\lala03.c" />
-    <ClCompile Include="..\..\day4\lala04.c" />
-    <ClCompile Include="..\..\day5\lala05.c" />
-    <ClCompile Include="game.c" />
+    <ClCompile Include="game1.c" />
     <ClCompile Include="lala01.c" />
+    <ClCompile Include="lala02.c" />
+    <ClCompile Include="lala03.c" />
+    <ClCompile Include="lala04.c" />
+    <ClCompile Include="lala05.c" />
     <ClCompile Include="lala06.c" />
     <ClCompile Include="add.c" />
     <ClCompile Include="lala07.c" />
@@ -24,12 +24,15 @@
     <ClCompile Include="lala09.c" />
     <ClCompile Include="lala10.c" />
     <ClCompile Include="lala11.c" />
+    <ClCompile Include="lala12.c" />
+    <ClCompile Include="lala13.c" />
+    <ClCompile Include="lala14.c" />
     <ClCompile Include="sub.c" />
-    <ClCompile Include="test.c" />
+    <ClCompile Include="test1.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Add.h" />
-    <ClInclude Include="game.h" />
+    <ClInclude Include="game1.h" />
     <ClInclude Include="Sub.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

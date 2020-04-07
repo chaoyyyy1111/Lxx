@@ -18,18 +18,6 @@
     <ClCompile Include="lala01.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\day2\lala02.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\day4\lala04.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\day5\lala05.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\day3\lala03.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="lala06.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -48,16 +36,37 @@
     <ClCompile Include="lala09.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="game.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="lala10.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="lala11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala12.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala13.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lala14.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -68,7 +77,7 @@
     <ClInclude Include="Add.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="game.h">
+    <ClInclude Include="game1.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
