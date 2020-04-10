@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 public class Test17{
-	public static void main1(String[] args) {
+	public static void main(String[] args) {
 	Scanner scan = new Scanner(System.in);
 	while(scan.hasNextInt()) {
 	int age = scan.nextInt();
@@ -180,7 +180,7 @@ public class Test17{
 	   }
        System.out.print((num%10)+" ");
    }
-   public static void main(String[] args) {
+   public static void main13(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int num = scan.nextInt();
 		Input(num);
