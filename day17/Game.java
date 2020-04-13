@@ -1,13 +1,13 @@
-import java.util.Scanner;
-import java.lang.Math;
+import java.util.*;
 public class Game {
 	public static void Menu() {
 		System.out.println("###################");
 		System.out.println("###1.play 0.exit###");
 		System.out.println("###################");
 	}
-	public static void game() {
-		int num = (int)(Math.random()*100);
+	public static void main2(String[] args) {
+		Random random = new Random();
+		int num = random.nextInt(100);
 		Scanner scan = new Scanner(System.in);
 		System.out.println("请猜一个数字");
 		while(true) {
@@ -22,7 +22,7 @@ public class Game {
 		}
 		}
 	}
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 	    boolean flag = true;
 		while(flag) {
 		Menu();
@@ -31,7 +31,7 @@ public class Game {
 		int input = scan.nextInt();
 		switch(input) {
 			case 1:
-			game();
+			//game();
 			break;
 			case 0:
 			System.out.println("游戏退出");
