@@ -92,7 +92,7 @@ public class HomeWork {
         }
     return jump(n-1)+jump(n-2);
     }
-    public static void main(String[] args) {
+    public static void main7(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         System.out.println(jump(n));

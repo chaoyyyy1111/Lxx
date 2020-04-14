@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Test19 {
-   public static int fac(int i) {
+    public static int fac(int i) {
        int ret = 1;
        for(int j = 1 ; j <= i ; j++) {
            ret*=j;
@@ -35,7 +35,7 @@ public class Test19 {
     public static double sum(double num1,double num2,double num3) {
        return num1+num2+num3;
     }
-    public static void main(String[] args) {
+    public static void main3(String[] args) {
         System.out.println(sum(10, 20));
         System.out.println(sum(10.1, 20.1, 30.1));
     }
