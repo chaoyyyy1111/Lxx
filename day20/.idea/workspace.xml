@@ -63,10 +63,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586770372180">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586945202426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586770372180" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586945202426" />
     <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586868903940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -83,9 +83,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586868903940" />
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1586918102673">
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1586945162645">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586918102673" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586945162645" />
+    <state x="53" y="0" key="new project wizard" timestamp="1586945215433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="53" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586945215433" />
   </component>
 </project>
