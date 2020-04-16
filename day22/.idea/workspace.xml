@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="775702bd-7d6a-49ec-9eb2-d90324719f65" name="Default Changelist" comment="" />
+    <list default="true" id="775702bd-7d6a-49ec-9eb2-d90324719f65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../day23/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day23" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lxxjava/day23" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.HomeWork">
@@ -66,10 +69,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="118" key="FileChooserDialogImpl" timestamp="1587022626109">
+    <state x="273" y="0" key="CommitChangelistDialog2" timestamp="1587023244776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="452" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587022626109" />
+    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587023244776" />
+    <state x="452" y="118" key="FileChooserDialogImpl" timestamp="1587026251719">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587026251719" />
     <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1587022734557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -102,5 +109,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587022030874" />
+    <state x="53" y="0" key="new project wizard" timestamp="1587023303114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="53" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587023303114" />
   </component>
 </project>
