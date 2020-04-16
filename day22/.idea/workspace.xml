@@ -27,7 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day23" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.HomeWork">
@@ -66,26 +66,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="118" key="FileChooserDialogImpl" timestamp="1587022349079">
+    <state x="452" y="118" key="FileChooserDialogImpl" timestamp="1587022626109">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="452" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587022349079" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1587021341101">
+    <state x="452" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587022626109" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1587022734557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587021341101" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1587021341101">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587022734557" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1587022734557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587021341101" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1587021341100">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587022734557" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1587022734556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587021341100" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1587021341101">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587022734556" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1587022734557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587021341101" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587022734557" />
+    <state x="323" y="60" key="NewModule_or_Project.wizard" timestamp="1587022729437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="323" y="60" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1587022729437" />
     <state x="173" y="0" key="SettingsEditor" timestamp="1587021335651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
